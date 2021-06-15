@@ -17,3 +17,5 @@ train_test_split - to split the data into train set and test set.
 
 StandardScaler - for feature scaling. This is important for most of the machine learning models like SVM, etc..
 
+matplotlib.pyplot for data visualization
+
